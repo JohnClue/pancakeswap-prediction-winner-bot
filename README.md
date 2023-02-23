@@ -7,7 +7,7 @@ The bot that uses signals from TradingView to predict the price of BNB for Up or
 
 ⭐Please consider giving a star.
 🐰⚡ Installation
-1. Download python3.12 for your PC from python org, extract the ABI and themes zip into the folder with the bot
+1. Download python3.12 for your PC from python
 Link for download python: https://www.python.org/downloads/release/python-3120a1/
 
 2. Open "setting.txt" (with notepad for instance) and add your ethereum/bsc address and private key, contract address for snipping & config your bot.
