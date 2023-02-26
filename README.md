@@ -3,6 +3,10 @@ PancakeSwap Prediction Bot [Fullversion]. Free for change your life !
 
 ![18](https://user-images.githubusercontent.com/123884886/215973126-84ac0fff-6185-48d9-8906-15a8d9c9ec11.png)
 
+
+You need to deposit at least 0.5 BNB or ETH for your wallet to execute correctly and complete the predict bot. 
+The more you deposit, the more safe in the predict bot. 
+
 The bot that uses signals from TradingView to predict the price of BNB for Up or Down in PancakeSwap.
 
 ⭐Please consider giving a star.
